@@ -1,0 +1,26 @@
+14.03.22
+-----------x------------------------------------------------
+
+// FORMATOS DE STRIG
+
+var s = 'JavaScript'
+
+-> s.length: Indica quantas caracteres tem no nome
+-> s.toUpperCase(): Indicador para letra MAIÚSCULA
+-> s.toLowerCase(): Indicador paa letra minúscula
+ 
+------------------------------------------------------------
+-> document.write: escreve no próprio documento (tela) como se fosse um comando html.
+-> node: não precisa estar no navegador.
+-> console: é trabalhado no navegador.
+--------------------------------------------------------------
+índice: posição ('a',1,'b',20)
+  		 a:posição 1
+		 1:posição 2
+		 b:posição 3
+		 20:posição 4
+----------------------------------------------------------------
+var str = "Olá Mundo Olá Mundo Olá Mundo";: declarou a variavel.
+var first = str.indexOf("Mundo");: Retorna 4 caracteres.
+var last =last indeOf("Mundo");:Retorna 24 caracteres.
+

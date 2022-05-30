@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: darkcyan;
+}
+.nasc{
+    background-color: cadetblue;
+}
+.genero{
+    background-color: rgb(161, 230, 233);
+}
+input[type=number]{
+    background-color: white; 
+    color: black; 
+    border: 2px solid darkslategrey#4CAF50;
+}
+input[type=submit]{
+    background-color: white; 
+    color: black; 
+    border: 2px solid darkslategrey#4CAF50;
+    padding: 10px 30px;
+}
+input[type=submit]:hover {
+    background-color: darkslategrey;
+    color: white;
+
+}
